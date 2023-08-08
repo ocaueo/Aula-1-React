@@ -1,0 +1,3 @@
+const BlogTitulo = (titulo: string) => {
+    
+}
